@@ -1,5 +1,5 @@
 {
-  "name": "restaurant",
+  "name": "image-carousel",
   "version": "1.0.0",
   "description": "This page is created using DOM manipulation and using ES6 modules.",
   "main": "index.js",

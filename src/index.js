@@ -70,3 +70,5 @@ optionsDiv.addEventListener("click", (e) => {
     optionsArr[selectedIndex].classList.toggle("selected");
   }
 });
+
+setInterval(moveRight, 5000);
